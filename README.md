@@ -23,8 +23,8 @@ empathizing with others in such positions.
 
 The concepts of "escapism" and "power fantasy" have bad connotations but
 here they are used neutrally. The stories of Harry Potter, Star Wars, 
-Lord of the Rings, Wonder Woman or Indiana Jones are all escapist power 
-fantasies. They follow people who are unnaturally smart, strong, adept, 
+Lord of the Rings, Wonder Woman, Black Panther or Indiana Jones are all escapist
+power fantasies. They follow people who are unnaturally smart, strong, adept, 
 and important. That doesn't mean the works cannot have a message. It just makes
 their initial premise more attractive and enjoyable.
 
@@ -74,7 +74,7 @@ cutting a knot, killing an evil wizard, or throwing a ring into lava.
 
 This is the core of Hero's Journey, an archetype shared between various
 cultures of Earth. It's not just some recent fad. It's a deep human
-preference. And is possibly also a very useful belief.
+preference. And it's possibly also a very useful belief.
 
 Yet, we all know that the world doesn't work like that. The world is
 a massive, counter-intuitive system full of weird ripple effects, feedback
@@ -83,13 +83,13 @@ by single individuals seldom solve anything. There is no magic ring the
 destruction of which will make evil go away. Killing a single leader is
 as likely to make things worse as it is to make things better. 
 And cutting a knot when everyone is trying to _untie_ it ...
-is just a dick move.
+that's just a dick move.
 
 This setting is about high adventure. Problems that the players will be facing
 _should_ conform with the Hero's Journey. They _should_ be solvable by
 easy-to-understand (though not easy to execute!) acts. When there's
 a dragon on the loose, we _don't_ expect the players to ponder the implications
-of dragon slaying on the ecology.
+of dragon slaying on the local ecology.
 
 But that shouldn't be an excuse to make the whole setting simplistic. Heroics
 is the lens we're looking _through_, but the subject we're looking _at_
